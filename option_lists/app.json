@@ -1,0 +1,183 @@
+{
+ "department": [
+  {
+    "id": 1,
+    "deptname": "Finance",
+    "costcentre": "37295758",
+    "HOD": "Hugo Weaving",
+    "officelocation": {
+      "street": "346 North Valley Way",
+      "city": "Manchester",
+      "postcode": "M2 3YZ"
+      }
+  },
+  {
+    "id": 2,
+    "deptname": "Operations",
+    "costcentre": "32890277",
+    "HOD": "Marcus Chong",
+    "officelocation": {
+      "street": "346 North Valley Way",
+      "city": "Manchester",
+      "postcode": "M2 3YZ"
+    }
+  },
+    {
+    "id": 3,
+    "deptname": "Human Resources",
+    "costcentre": "12975847",
+    "HOD": "Carrie-Anne Moss",
+    "officelocation": {
+      "street": "12 London Bridge Road",
+      "city": "London",
+      "postcode": "L1 2BC"
+    }
+  }
+],
+  "applications": [
+  {
+    "deptId": 1,
+    "deptname": "Finance",
+    "id": 1,
+    "appname": "Cellex",
+    "serviceowner": "Seril James",
+    "supportowner": "Harold Perrineau"
+  },
+  {
+    "deptId": 1,
+    "deptname": "Finance",
+    "id": 2,
+    "appname": "Nabonidus",
+    "serviceowner": "Seril James",
+    "supportowner": "Nash Edgerton"
+  },
+    {
+    "deptId": 1,
+    "deptname": "Finance",
+    "id": 3,
+    "appname": "Rescate",
+    "serviceowner": "Tamara Brown",
+    "supportowner": "Harold Perrineau"
+  },
+  {
+    "deptId": 1,
+    "deptname": "Finance",
+    "id": 4,
+    "appname": "Vishnu",
+    "serviceowner": "Deni Gordon",
+    "supportowner": "Gina Torres"
+  },
+    {
+    "deptId": 1,
+    "deptname": "Finance",
+    "id": 5,
+    "appname": "Logos",
+    "serviceowner": "Mary Alice",
+    "supportowner": "Harold Perrineau"
+  },
+  {
+    "deptId": 1,
+    "deptname": "Finance",
+    "id": 6,
+    "appname": "Alcatraz",
+    "serviceowner": "Ben English",
+    "supportowner": "Harry Lennix"
+  },
+    {
+    "deptId": 2,
+    "deptname": "Operations",
+    "id": 7,
+    "appname": "Brahma",
+    "serviceowner": "Robert Taylor",
+    "supportowner": "Paul Goddard"
+  },
+  {
+    "deptId": 2,
+    "deptname": "Operations",
+    "id": 8,
+    "appname": "Crescendo",
+    "serviceowner": "Julian Arahanga",
+    "supportowner": "Rowan Witt"
+  },
+    {
+    "deptId": 2,
+    "deptname": "Operations",
+    "id": 9,
+    "appname": "Prometheus",
+    "serviceowner": "Fiona Johnson",
+    "supportowner": "Rowan Witt"
+  },
+  {
+    "deptId": 2,
+    "deptname": "Operations",
+    "id": 10,
+    "appname": "Osiris",
+    "serviceowner": "Julian Arahanga",
+    "supportowner": "Rowan Witt"
+  },
+    {
+    "deptId": 2,
+    "deptname": "Operations",
+    "id": 11,
+    "appname": "Nanshe",
+    "serviceowner": "David Aston",
+    "supportowner": "Janaya Pender"
+  },
+  {
+    "deptId": 2,
+    "deptname": "Operations",
+    "id": 12,
+    "appname": "Novalis",
+    "serviceowner": "Steve Dodd",
+    "supportowner": "Janaya Pender"
+  },
+    {
+    "deptId": 3,
+    "deptname": "Human Resources",
+    "id": 13,
+    "appname": "Titan",
+    "serviceowner": "Gloria Foster",
+    "supportowner": "Joe Pantoliano"
+  },
+  {
+    "deptId": 3,
+    "deptname": "Human Resources",
+    "id": 14,
+    "appname": "Shiva",
+    "serviceowner": "Gloria Foster",
+    "supportowner": "Matt Dorran"
+  },
+    {
+    "deptId": 3,
+    "deptname": "Human Resources",
+    "id": 15,
+    "appname": "Scanline",
+    "serviceowner": "Belinda McClory",
+    "supportowner": "Matt Dorran"
+  },
+  {
+    "deptId": 3,
+    "deptname": "Human Resources",
+    "id": 16,
+    "appname": "Polaris",
+    "serviceowner": "Monica Bellucci",
+    "supportowner": "Anthony Ray Parker"
+  },
+    {
+    "deptId": 3,
+    "deptname": "Human Resources",
+    "id": 17,
+    "appname": "Horizon",
+    "serviceowner": "Lilly Wachowski",
+    "supportowner": "Anthony Ray Parker"
+  },
+  {
+    "deptId": 3,
+    "deptname": "Human Resources",
+    "id": 18,
+    "appname": "Equinox",
+    "serviceowner": "Gloria Foster",
+    "supportowner": "Matt Dorran"
+  }
+  ]
+}
